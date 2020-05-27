@@ -1,12 +1,14 @@
-## Requesting new features
+## Contributing to klasse.cloud
+
+### Requesting new features
 
 If you have an idea about a cool new feature you would like to have in klasse.cloud, please look into our feature requests backlog first. Maybe someone else had the same or a similar idea. If that’s the case you can support that feature request by clicking the thumps up button on the feature request. The team will consider those votes for prioritization of feature requests. If another feature request is similar to your idea and differs slightly please leave a comment explaining what you would like to see implemented and why you think your approach is better.
 
-## Reporting a bug
+### Reporting a bug
 
 If you run into trouble with klasse.cloud you can report those issues on TBD. Please be as detailed as possible describing how you ran into this issue. As with new feature requests please look if your issue has already been reported and feel free to contribute more information. Do not think too hard if your additional information will be useful, the resolution of bugs is usually not delayed by an abundance of description :)
 
-## Development Workflow
+### Development Workflow
 
 First and foremost: As any project a lot of communication is required, this is especially true for open source. Please talk to each other, preferrably via voice chat, and do not completely rely on this model. It exists as a guideline to make it easier for new people to join and contribute to this project. For instance: If you as a developer do not understand some aspects of the design you should try to contact the designer directly if possible instead of demoting the issue back to design.
 
