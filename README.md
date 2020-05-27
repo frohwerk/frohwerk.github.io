@@ -25,3 +25,7 @@ At this point the designer can pick it up again and check if the implementation 
 The preview will be made available to the author of the feature request for a final acceptance test. Once the result has been accepted by the feature request should be promoted to the _Complete_ state.  
 
 The core team will create bundles of completed feature requests and decide when and how to release the feature to the public. After the public release the feature request will be _Closed_.
+
+## Coding Guidelines
+
+You can find more information on our [CONTRIBUTING.md](/CONTRIBUTING.md)
