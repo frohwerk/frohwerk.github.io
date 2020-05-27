@@ -8,7 +8,9 @@ If you run into trouble with klasse.cloud you can report those issues on TBD. Pl
 
 ## Development Workflow
 
-First and foremost: As any project a lot of communication is required, this is especially true for open source. Please talk to each other, preferrably via voice chat, and do not completely rely on this model. It exists as a guideline to make it easier for new people to join and contribute to this project. For instance: If you as a developer do not understand some aspects of the design you should try to contact the designer directly if possible instead of demoting the issue back to design.  
+First and foremost: As any project a lot of communication is required, this is especially true for open source. Please talk to each other, preferrably via voice chat, and do not completely rely on this model. It exists as a guideline to make it easier for new people to join and contribute to this project. For instance: If you as a developer do not understand some aspects of the design you should try to contact the designer directly if possible instead of demoting the issue back to design.
+
+![Missing image](images/development-workflow.jpg)
 
 _Open_ feature requests are discussed by the core team **once per month on a team call (?)**, a reasonable number of requests given the current number of people working on the project and the number of requests currently being worked on are going to get prioritized and promoted to _Accepted_ state.  
 
