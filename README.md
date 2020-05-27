@@ -30,4 +30,4 @@ The core team will create bundles of completed feature requests and decide when 
 
 ## Coding Guidelines
 
-You can find more information on our [CONTRIBUTING.md](/CONTRIBUTING.md)
+You can find more information on our [CONTRIBUTING.md](CONTRIBUTING.md)
