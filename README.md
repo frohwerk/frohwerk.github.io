@@ -28,6 +28,12 @@ The preview will be made available to the author of the feature request for a fi
 
 The core team will create bundles of completed feature requests and decide when and how to release the feature to the public. After the public release the feature request will be _Closed_.
 
-## Coding Guidelines
+### Components
+
+The most important components of our project are the core-ui library, the student- and teacher application and the shared backend (API):
+
+![Missing image](/assets/components.jpg)
+
+### Coding Guidelines
 
 You can find more information on our [CONTRIBUTING.md](CONTRIBUTING.md)
